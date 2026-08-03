@@ -2,7 +2,7 @@
   "name": "AppStore Paid Games & Apps",
   "identifier": "com.alexander.livecontainer.source",
   "subtitle": "Персональный источник приложений",
-  "description": "Прямые ссылки на загрузку файлов с Google Drive.",
+  "description": "Прямые ссылки на загрузку файлов с Google Drive и иконки с GitHub.",
   "apps": [
     {
       "name": "Minecraft",
@@ -10,7 +10,7 @@
       "developerName": "Mojang",
       "subtitle": "Bedrock Edition",
       "localizedDescription": "Официальный клиент Minecraft PE.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Minecraft%20Icon.png",
       "tintColor": "3F7A31",
       "category": "games",
       "versions": [
@@ -48,7 +48,7 @@
       "developerName": "TeleDark Team",
       "subtitle": "Кастомный клиент Telegram",
       "localizedDescription": "Модифицированный клиент с расширенными функциями.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Teledark%20Icon.png",
       "tintColor": "229ED9",
       "category": "social",
       "versions": [
@@ -67,7 +67,7 @@
       "developerName": "Sberbank",
       "subtitle": "Мобильный банк",
       "localizedDescription": "Приложение СберБанк Онлайн.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Online%20Icon.png",
       "tintColor": "21A038",
       "category": "utilities",
       "versions": [
