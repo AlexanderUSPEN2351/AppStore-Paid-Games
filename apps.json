@@ -1,8 +1,8 @@
 {
   "name": "AppStore Paid Games & Apps",
   "identifier": "com.alexander.livecontainer.source",
-  "subtitle": "Персональный источник приложений и игр",
-  "description": "Каталог IPA-файлов, загруженных на Google Диск.",
+  "subtitle": "Персональный источник приложений",
+  "description": "Прямые ссылки на загрузку файлов с Google Drive.",
   "apps": [
     {
       "name": "Minecraft",
@@ -18,7 +18,7 @@
           "version": "1.26.33",
           "date": "2026-08-03",
           "localizedDescription": "Версия v1.26.33",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1099thjrRehwZ0_TWUpkarUJ8oRWAqAVt",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1099thjrRehwZ0_TWUpkarUJ8oRWAqAVt&confirm=t",
           "size": 756000000
         }
       ]
@@ -37,7 +37,7 @@
           "version": "5.0.0",
           "date": "2026-08-03",
           "localizedDescription": "Актуальная версия ESign",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=15osgahhJdfFFgxRSBpEPPBwPEjUSmKNc",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=15osgahhJdfFFgxRSBpEPPBwPEjUSmKNc&confirm=t",
           "size": 30000000
         }
       ]
@@ -56,7 +56,7 @@
           "version": "12.7",
           "date": "2026-08-03",
           "localizedDescription": "Версия v12.7",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1yOKGOx0KVqMSEysEFi5gXWKiILdcto70",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1yOKGOx0KVqMSEysEFi5gXWKiILdcto70&confirm=t",
           "size": 120000000
         }
       ]
@@ -75,7 +75,7 @@
           "version": "17.6.1",
           "date": "2026-08-03",
           "localizedDescription": "Версия v17.6.1",
-          "downloadURL": "https://drive.google.com/uc?export=download&id=1nOh2aI-466g4Fn83Z8GcApeJ5NChw7U1",
+          "downloadURL": "https://drive.usercontent.google.com/download?id=1nOh2aI-466g4Fn83Z8GcApeJ5NChw7U1&confirm=t",
           "size": 300000000
         }
       ]
