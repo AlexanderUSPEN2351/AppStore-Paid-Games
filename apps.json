@@ -2,7 +2,7 @@
   "name": "AppStore Paid Games & Apps",
   "identifier": "com.alexander.livecontainer.source",
   "subtitle": "Персональный источник приложений",
-  "description": "Персональный репозиторий приложений",
+  "description": "Прямая установка файлов из GitHub Releases",
   "apps": [
     {
       "name": "Minecraft",
@@ -17,9 +17,9 @@
         {
           "version": "1.26.33",
           "date": "2026-08-03",
-          "localizedDescription": "Версия v1.26.33",
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1099thjrRehwZ0_TWUpkarUJ8oRWAqAVt&confirm=t",
-          "size": 756000000
+          "localizedDescription": "Релиз v1.26.33",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/Minecraft.v1.26.33.ipa",
+          "size": 717225984
         }
       ]
     },
@@ -34,11 +34,11 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "5.0.0",
+          "version": "5.0.2",
           "date": "2026-08-03",
-          "localizedDescription": "Актуальная версия ESign",
-          "downloadURL": "https://drive.usercontent.google.com/download?id=15osgahhJdfFFgxRSBpEPPBwPEjUSmKNc&confirm=t",
-          "size": 30000000
+          "localizedDescription": "Версия v5.0.2",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/ESign.v5.0.2.ipa",
+          "size": 7518208
         }
       ]
     },
@@ -55,9 +55,9 @@
         {
           "version": "12.7",
           "date": "2026-08-03",
-          "localizedDescription": "Версия v12.7",
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1yOKGOx0KVqMSEysEFi5gXWKiILdcto70&confirm=t",
-          "size": 120000000
+          "localizedDescription": "Релиз v12.7",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/TeleDark.v12.7.ipa",
+          "size": 86710272
         }
       ]
     },
@@ -74,9 +74,47 @@
         {
           "version": "17.6.1",
           "date": "2026-08-03",
-          "localizedDescription": "Версия v17.6.1",
-          "downloadURL": "https://drive.usercontent.google.com/download?id=1nOh2aI-466g4Fn83Z8GcApeJ5NChw7U1&confirm=t",
-          "size": 300000000
+          "localizedDescription": "Релиз v17.6.1",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/Online.v17.6.1.ipa",
+          "size": 304087040
+        }
+      ]
+    },
+    {
+      "name": "MAX",
+      "bundleIdentifier": "com.max.app",
+      "developerName": "MAX Team",
+      "subtitle": "Мобильное приложение",
+      "localizedDescription": "Утилита MAX.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "tintColor": "007AFF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "26.17.3",
+          "date": "2026-08-03",
+          "localizedDescription": "Версия v26.17.3",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/MAX.v26.17.3.ipa",
+          "size": 49912217
+        }
+      ]
+    },
+    {
+      "name": "YouTube+",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google / Mod",
+      "subtitle": "Модифицированный YouTube",
+      "localizedDescription": "Клиент YouTube с расширенными возможностями.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "tintColor": "FF0000",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-08-03",
+          "localizedDescription": "Версия v21.24.3",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/YouTube+.v21.24.3.ipa",
+          "size": 138412032
         }
       ]
     }
