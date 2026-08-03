@@ -2,7 +2,7 @@
   "name": "AppStore Paid Games & Apps",
   "identifier": "com.alexander.livecontainer.source",
   "subtitle": "Персональный источник приложений",
-  "description": "Прямые ссылки на загрузку файлов с Google Drive и иконки с GitHub.",
+  "description": "Персональный репозиторий приложений",
   "apps": [
     {
       "name": "Minecraft",
