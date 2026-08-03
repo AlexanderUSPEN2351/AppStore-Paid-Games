@@ -11,7 +11,7 @@
       "developerName": "RobTop Games",
       "subtitle": "Ритм-платформер",
       "localizedDescription": "Официальная полная версия Geometry Dash.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Geometry%20Icon.png",
       "tintColor": "F9A825",
       "category": "games",
       "versions": [
@@ -49,7 +49,7 @@
       "developerName": "ESign Team",
       "subtitle": "Подписывание IPA",
       "localizedDescription": "Приложение для подписи и установки IPA-файлов на iOS.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Online%20Icon.png",
       "tintColor": "5856D6",
       "category": "utilities",
       "versions": [
@@ -106,7 +106,7 @@
       "developerName": "MAX Team",
       "subtitle": "Мобильное приложение",
       "localizedDescription": "Утилита MAX.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/MAX%20Icon.png",
       "tintColor": "007AFF",
       "category": "utilities",
       "versions": [
@@ -125,7 +125,7 @@
       "developerName": "Google / Mod",
       "subtitle": "Модифицированный YouTube",
       "localizedDescription": "Клиент YouTube с расширенными возможностями.",
-      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/YouTube%20Icon.png",
       "tintColor": "FF0000",
       "category": "entertainment",
       "versions": [
