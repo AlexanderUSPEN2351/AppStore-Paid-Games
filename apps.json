@@ -3,7 +3,27 @@
   "identifier": "com.alexander.livecontainer.source",
   "subtitle": "Персональный источник приложений",
   "description": "Прямая установка файлов из GitHub Releases",
+  "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/source.png",
   "apps": [
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometrydash",
+      "developerName": "RobTop Games",
+      "subtitle": "Ритм-платформер",
+      "localizedDescription": "Официальная полная версия Geometry Dash.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
+      "tintColor": "F9A825",
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.208",
+          "date": "2026-08-03",
+          "localizedDescription": "Версия v2.208",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/Geometry.2.208.ipa",
+          "size": 180000000
+        }
+      ]
+    },
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
@@ -18,7 +38,7 @@
           "version": "1.26.33",
           "date": "2026-08-03",
           "localizedDescription": "Релиз v1.26.33",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/Minecraft.v1.26.33.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/Minecraft.v1.26.33.ipa",
           "size": 717225984
         }
       ]
@@ -37,17 +57,17 @@
           "version": "5.0.2",
           "date": "2026-08-03",
           "localizedDescription": "Версия v5.0.2",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/ESign.v5.0.2.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/ESign.v5.0.2.ipa",
           "size": 7518208
         }
       ]
     },
     {
-      "name": "TeleDark - Telegram Premium",
+      "name": "TeleDark",
       "bundleIdentifier": "ph.teledark.ios",
       "developerName": "TeleDark Team",
       "subtitle": "Кастомный клиент Telegram",
-      "localizedDescription": "Модифицированный клиент с расширенными функциями и встроенным Premium.",
+      "localizedDescription": "Модифицированный клиент с расширенными функциями.",
       "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Teledark%20Icon.png",
       "tintColor": "229ED9",
       "category": "social",
@@ -56,17 +76,17 @@
           "version": "12.7",
           "date": "2026-08-03",
           "localizedDescription": "Релиз v12.7",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/TeleDark.v12.7.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/TeleDark.v12.7.ipa",
           "size": 86710272
         }
       ]
     },
     {
-      "name": "СберБанк Онлайн",
+      "name": "СберБанк",
       "bundleIdentifier": "ru.sberbank.sberbankonline",
       "developerName": "Sberbank",
       "subtitle": "Мобильный банк",
-      "localizedDescription": "Официальное приложение СберБанк Онлайн.",
+      "localizedDescription": "Приложение СберБанк Онлайн.",
       "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/Online%20Icon.png",
       "tintColor": "21A038",
       "category": "utilities",
@@ -75,37 +95,37 @@
           "version": "17.6.1",
           "date": "2026-08-03",
           "localizedDescription": "Релиз v17.6.1",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/Online.v17.6.1.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/Online.v17.6.1.ipa",
           "size": 304087040
         }
       ]
     },
     {
-      "name": "MAX Мессенджер",
+      "name": "MAX",
       "bundleIdentifier": "com.max.app",
       "developerName": "MAX Team",
-      "subtitle": "Звонки, Сообщения, Видео",
-      "localizedDescription": "Мессенджер MAX с поддержкой аудио и видеозвонков.",
-      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/MAX%20Icon.png",
+      "subtitle": "Мобильное приложение",
+      "localizedDescription": "Утилита MAX.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
       "tintColor": "007AFF",
-      "category": "social",
+      "category": "utilities",
       "versions": [
         {
           "version": "26.17.3",
           "date": "2026-08-03",
           "localizedDescription": "Версия v26.17.3",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/MAX.v26.17.3.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/MAX.v26.17.3.ipa",
           "size": 49912217
         }
       ]
     },
     {
-      "name": "YouTube Plus",
+      "name": "YouTube+",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google / Mod",
       "subtitle": "Модифицированный YouTube",
-      "localizedDescription": "Клиент YouTube с отключенной рекламой и фоновым воспроизведением.",
-      "iconURL": "https://raw.githubusercontent.com/AlexanderUSPEN2351/AppStore-Paid-Games/main/Icons/YouTube%20Icon.png",
+      "localizedDescription": "Клиент YouTube с расширенными возможностями.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png",
       "tintColor": "FF0000",
       "category": "entertainment",
       "versions": [
@@ -113,7 +133,7 @@
           "version": "21.24.3",
           "date": "2026-08-03",
           "localizedDescription": "Версия v21.24.3",
-          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/0.1/YouTube+.v21.24.3.ipa",
+          "downloadURL": "https://github.com/AlexanderUSPEN2351/AppStore-Paid-Games/releases/download/v1.0/YouTube+.v21.24.3.ipa",
           "size": 138412032
         }
       ]
